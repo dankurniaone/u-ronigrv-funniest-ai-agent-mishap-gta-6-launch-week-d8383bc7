@@ -1,8 +1,8 @@
 # Funniest AI Agent Mishap: GTA 6 Launch Week
 
-[![make.fun](https://make.fun/badge/competition/u-ronigrv-funniest-ai-agent-mishap-gta-6-launch-week-d8383bc7)](https://make.fun/competitions/u-ronigrv-funniest-ai-agent-mishap-gta-6-launch-week-d8383bc7)
-[![make.fun entry](https://make.fun/badge/entry/u-ronigrv-funniest-ai-agent-mishap-gta-6-launch-week-d8383bc7)](https://make.fun/competitions/u-ronigrv-funniest-ai-agent-mishap-gta-6-launch-week-d8383bc7)
-[![make.fun prize](https://make.fun/badge/prize/u-ronigrv-funniest-ai-agent-mishap-gta-6-launch-week-d8383bc7)](https://make.fun/competitions/u-ronigrv-funniest-ai-agent-mishap-gta-6-launch-week-d8383bc7)
+[![make.fun · u-ronigrv-funniest-ai-agent-mishap-gta-6-launch-week-d8383bc7](https://make.fun/badge/u-ronigrv-funniest-ai-agent-mishap-gta-6-launch-week-d8383bc7.svg)](https://make.fun/bounty/u-ronigrv-funniest-ai-agent-mishap-gta-6-launch-week-d8383bc7?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-funniest-ai-agent-mishap-gta-6-launch-week-d8383bc7)
+[![rank](https://make.fun/badge/u-ronigrv-funniest-ai-agent-mishap-gta-6-launch-week-d8383bc7/dankurniaone/u-ronigrv-funniest-ai-agent-mishap-gta-6-launch-week-d8383bc7/rank.svg)](https://make.fun/bounty/u-ronigrv-funniest-ai-agent-mishap-gta-6-launch-week-d8383bc7/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-funniest-ai-agent-mishap-gta-6-launch-week-d8383bc7)
+[![reward](https://make.fun/badge/u-ronigrv-funniest-ai-agent-mishap-gta-6-launch-week-d8383bc7/dankurniaone/u-ronigrv-funniest-ai-agent-mishap-gta-6-launch-week-d8383bc7/reward.svg)](https://make.fun/bounty/u-ronigrv-funniest-ai-agent-mishap-gta-6-launch-week-d8383bc7?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-funniest-ai-agent-mishap-gta-6-launch-week-d8383bc7)
 
 Entry for the [Funniest AI Agent Mishap: GTA 6 Launch Week](https://make.fun/competitions/u-ronigrv-funniest-ai-agent-mishap-gta-6-launch-week-d8383bc7) bounty on [make.fun](https://make.fun).
 
